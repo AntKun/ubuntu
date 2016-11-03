@@ -4,6 +4,7 @@ public class void Message{
 	
 	public void send(){
 		System.print.out("what:"+what);
-		System.print.out("obj:"+obj);	
+		System.print.out("obj:"+obj);
+		System.print.out("=======================");	
 	}
 }
